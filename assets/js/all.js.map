@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"all.js","sourcesContent":["// $(document).ready(function () {\n//   $('.Replay').click(function(e){\n//     e.preventDefault();\n//     $('.show').slideToggle();\n//   })\n// });\n\n"]}
